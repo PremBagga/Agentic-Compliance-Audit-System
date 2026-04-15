@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Node (Frontend)
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing / temp
+.pytest_cache/
+.cache/
+
+# Deployment
+*.pem
+
+# Database
+*.db
+*.sqlite3
+
+# Migrations (if not using)
+migrations/
+alembic/
