@@ -1,5 +1,9 @@
 # Agentic Compliance & Audit Intelligence System
 
+## 🚀 Live Preview
+
+[![App Preview](./screenshots/home.png)](https://agentic-compliance-audit-system.vercel.app)
+
 A full-stack compliance auditing platform with:
 
 - **Backend:** FastAPI + LangGraph
